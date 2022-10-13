@@ -5,6 +5,4 @@
 - CSS
 - SASS
 - JS
-- REACT
-- TYPESCRIPT
 
